@@ -57,6 +57,7 @@ SILVER
   NO_LIGHT_VARIANT
   NO_DARK_VARIANT
 [SIGNATURE COLOUR]
-Doc link: https://docs.google.com/document/d/18ebsV8hyHxQtAoFmETFhN2M2o0T14nsaPZPNiDN2cJY/edit?user=Jason&tab=t.0
 BLUE_GREEN = #00A187
+
+Doc link: https://docs.google.com/document/d/18ebsV8hyHxQtAoFmETFhN2M2o0T14nsaPZPNiDN2cJY/edit?user=Jason&tab=t.0
 [END]
